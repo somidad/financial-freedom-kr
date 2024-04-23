@@ -13,8 +13,7 @@
 
 ## 투자
 
-- [한국인 투자순서](./%ED%95%9C%EA%B5%AD%EC%9D%B8%20%ED%88%AC%EC%9E%90%EC%88%9C%EC%84%9C.md)
-- [미국지수추종ETF](./%EB%AF%B8%EA%B5%AD%EC%A7%80%EC%88%98%EC%B6%94%EC%A2%85ETF.md)
+![투자 컨텐츠지도](%ED%88%AC%EC%9E%90%20%EC%BB%A8%ED%85%90%EC%B8%A0%EC%A7%80%EB%8F%84.md)
 
 ## 세금, 절세
 
