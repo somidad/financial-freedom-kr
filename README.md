@@ -1,6 +1,8 @@
 
 # Financial freedom (KR)
 
+## 계획
+
 - [은퇴(FIRE) 계산기](./%EC%9D%80%ED%87%B4(FIRE)%20%EA%B3%84%EC%82%B0%EA%B8%B0.md)
 
 ## 소득
