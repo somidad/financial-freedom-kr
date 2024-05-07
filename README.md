@@ -28,7 +28,8 @@
 
 ### 마인드셋
 
-- [이웃집 백만장자 The Millionaire Next Door](./%EC%9D%B4%EC%9B%83%EC%A7%91%20%EB%B0%B1%EB%A7%8C%EC%9E%A5%EC%9E%90%20The%20Millionaire%20Next%20Door.md)
+- [이웃집 백만장자 The Millionaire Next Door](./Books/%EC%9D%B4%EC%9B%83%EC%A7%91%20%EB%B0%B1%EB%A7%8C%EC%9E%A5%EC%9E%90%20The%20Millionaire%20Next%20Door.md)
+- [부자가 되는 비결 The Total Money Makeover](./Books/%EB%B6%80%EC%9E%90%EA%B0%80%20%EB%90%98%EB%8A%94%20%EB%B9%84%EA%B2%B0%20The%20Total%20Money%20Makeover.md)
 
 ### 다큐멘터리
 
