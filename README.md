@@ -21,6 +21,10 @@
 
 - [연금투자, 연금수령 절세테크닉](./%EC%97%B0%EA%B8%88%ED%88%AC%EC%9E%90,%20%EC%97%B0%EA%B8%88%EC%88%98%EB%A0%B9%20%EC%A0%88%EC%84%B8%ED%85%8C%ED%81%AC%EB%8B%89.md)
 
+## 대출
+
+- [스트레스 DSR](%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%8A%A4%20DSR.md)
+
 ## 데이터
 
 ---
@@ -35,3 +39,4 @@
 ### 다큐멘터리
 
 - 돈의 힘 (The Ascent of Moeny) [YouTube (영어)](https://youtube.com/playlist?list=PLSP9UbXmBuqq2VIdj2JhYgjlYVWrWC2or&si=GFw7ld5-WKSPaIO4)
+- [EBS 다큐프라임 자본주의 (YouTube)](https://youtu.be/ahNyJgDZmkc)
