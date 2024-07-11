@@ -19,6 +19,7 @@
 
 ## 세금, 절세
 
+- [근로소득 과세표준 및 세율](%EA%B7%BC%EB%A1%9C%EC%86%8C%EB%93%9D%20%EA%B3%BC%EC%84%B8%ED%91%9C%EC%A4%80%20%EB%B0%8F%20%EC%84%B8%EC%9C%A8.md)
 - [종합소득세 정보](./%EC%A2%85%ED%95%A9%EC%86%8C%EB%93%9D%EC%84%B8%20%EC%A0%95%EB%B3%B4.md)
 - [연금관련 세법](./%EC%97%B0%EA%B8%88%EA%B4%80%EB%A0%A8%20%EC%84%B8%EB%B2%95.md)
 - [연금투자, 연금수령 절세테크닉](./%EC%97%B0%EA%B8%88%ED%88%AC%EC%9E%90,%20%EC%97%B0%EA%B8%88%EC%88%98%EB%A0%B9%20%EC%A0%88%EC%84%B8%ED%85%8C%ED%81%AC%EB%8B%89.md)
@@ -29,6 +30,8 @@
 
 ## 데이터
 
+- [FINVIZ.com - Financial Visualization](https://finviz.com/)
+
 ---
 
 ## 도서/미디어
@@ -36,6 +39,7 @@
 ### 마인드셋
 
 - [이웃집 백만장자 The Millionaire Next Door](./Books/%EC%9D%B4%EC%9B%83%EC%A7%91%20%EB%B0%B1%EB%A7%8C%EC%9E%A5%EC%9E%90%20The%20Millionaire%20Next%20Door.md)
+- [바빌론 부자들의 돈버는 지혜](./Books/%EB%B0%94%EB%B9%8C%EB%A1%A0%20%EB%B6%80%EC%9E%90%EB%93%A4%EC%9D%98%20%EB%8F%88%EB%B2%84%EB%8A%94%20%EC%A7%80%ED%98%9C.md)
 - [부자가 되는 비결 The Total Money Makeover](./Books/%EB%B6%80%EC%9E%90%EA%B0%80%20%EB%90%98%EB%8A%94%20%EB%B9%84%EA%B2%B0%20The%20Total%20Money%20Makeover.md)
 
 ### 다큐멘터리
