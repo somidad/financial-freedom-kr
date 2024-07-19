@@ -1,7 +1,7 @@
 
-# Financial freedom (KR)
+# 경제적자유를 향하여
 
-[GitHub](https://github.com/somidad/financial-freedom-kr) [네이버](https://blog.naver.com/zirimo)
+[GitHub](https://github.com/somidad/financial-freedom-kr)
 
 ## 계획
 
@@ -10,7 +10,7 @@
 
 ## 소득
 
-- [원천징수 세액비율조정](./%EC%9B%90%EC%B2%9C%EC%A7%95%EC%88%98%20%EC%84%B8%EC%95%A1%EB%B9%84%EC%9C%A8%EC%A1%B0%EC%A0%95.md)
+- [새 회사에 가면 반드시 해야하는 것](./%EB%A7%9E%EC%B6%A4%ED%98%95%20%EC%9B%90%EC%B2%9C%EC%A7%95%EC%88%98%EC%A0%9C%EB%8F%84.md)
 
 ## 투자
 
