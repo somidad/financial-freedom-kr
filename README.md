@@ -18,6 +18,7 @@
 - [평생 한 종목만 투자해야한다면? - 패시브 투자](./%ED%8C%A8%EC%8B%9C%EB%B8%8C%20%ED%88%AC%EC%9E%90.md)
 - [미국지수추종ETF](./%EB%AF%B8%EA%B5%AD%EC%A7%80%EC%88%98%EC%B6%94%EC%A2%85ETF.md)
 - [투자 지표- 장단기 미국국채 금리차이 (일드커브)](./%EC%9E%A5%EB%8B%A8%EA%B8%B0%20%EB%AF%B8%EA%B5%AD%EA%B5%AD%EC%B1%84%20%EA%B8%88%EB%A6%AC%EC%B0%A8%EC%9D%B4%20(%EC%9D%BC%EB%93%9C%EC%BB%A4%EB%B8%8C).md)
+- [투자 지표 - 신규실업수당청구건수](./%EC%8B%A0%EA%B7%9C%EC%8B%A4%EC%97%85%EC%88%98%EB%8B%B9%EC%B2%AD%EA%B5%AC%EA%B1%B4%EC%88%98.md)
 
 ## 세금, 절세
 
