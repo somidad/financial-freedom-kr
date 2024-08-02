@@ -10,6 +10,7 @@
 ## 투자
 
 - [한국인 투자순서](./%ED%95%9C%EA%B5%AD%EC%9D%B8%20%ED%88%AC%EC%9E%90%EC%88%9C%EC%84%9C.md)
+- 도서: [모든 주식을 소유하라 The Little Common Sense Investing](./Books/%EB%AA%A8%EB%93%A0%20%EC%A3%BC%EC%8B%9D%EC%9D%84%20%EC%86%8C%EC%9C%A0%ED%95%98%EB%9D%BC%20The%20Little%20Common%20Sense%20Investing.md)
 - [해외 ETF (상장지수펀드, 지수추종펀드)](./%ED%95%B4%EC%99%B8%20ETF%20(%EC%83%81%EC%9E%A5%EC%A7%80%EC%88%98%ED%8E%80%EB%93%9C,%20%EC%A7%80%EC%88%98%EC%B6%94%EC%A2%85%ED%8E%80%EB%93%9C).md)
 
 ## 세금, 절세
